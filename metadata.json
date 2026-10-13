@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect",
+  "description": "Marketplace and consultation platform connecting farmers with verified agriculture experts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
